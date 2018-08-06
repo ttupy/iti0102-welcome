@@ -13,7 +13,7 @@ Soovituslik materjal, mida võiks enne kursuse algust vaadata:
 
 ## Kursuse *chat*
 
-Kasutame Discrodi, kus tudengid võivad igal ajal abi küsida:
+Kasutame Discordi, kus tudengid võivad igal ajal abi küsida:
 https://discord.gg/A7BjPrj
 
 ---
