@@ -1,6 +1,8 @@
 ## ITI0101 - Programmeerimise algkursus
 #### Lühike tutvustus
 
+Edasiliikumiseks kasuta nooli või tühikut.
+
 ---
 
 Soovituslik materjal, mida võiks enne kursuse algust vaadata:
