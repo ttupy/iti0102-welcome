@@ -1,4 +1,4 @@
-## ITI0101 - Programmeerimise algkursus
+## ITI0102 - Programmeerimise algkursus
 #### Lühike tutvustus
 
 Edasiliikumiseks kasuta nooli või tühikut.
@@ -37,3 +37,5 @@ Seega, igasugune Pythoniga tutvumine enne kursuse algust tuleb ainult kasuks.
 ---
 
 ## Kohtumiseni!
+
+ago.luberg@ttu.ee
