@@ -5,6 +5,14 @@ Edasiliikumiseks kasuta nooli või tühikut.
 
 ---
 
+Tere, progemishuviline!
+
+Meie korraldame sulle esimesel semestril programmeerimise algkursust.
+
+Kui sul on vähegi huvi, anname sulle võimaluse ennast natuke ette valmistada.
+
+---
+
 Soovituslik materjal, mida võiks enne kursuse algust vaadata:
 
 - https://www.codecademy.com/learn/learn-python
@@ -22,13 +30,13 @@ https://discord.gg/A7BjPrj
 
 Esimeseks praktikumiks võiks su arvutis olla järgnev:
 
-- python 3.6
-- PyCharm
-- (git)
+- python 3.7 - https://www.python.org/
+- PyCharm - https://www.jetbrains.com/pycharm/
+- Git - https://git-scm.com/
 
 ---
 
-Tegemist on algkursusega, mis otseselt ei eelda, et tudeng on eelnevalt programmeerimisega kokku puutunud. 
+Tegemist on algkursusega, mis ei eelda, et tudeng on eelnevalt programmeerimisega kokku puutunud. 
 
 Küll aga on kursus suhteliselt intensiivne ning selles on vaja palju iseseisvat tööd teha.
 
