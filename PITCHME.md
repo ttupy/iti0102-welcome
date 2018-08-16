@@ -26,6 +26,8 @@ Soovituslik materjal, mida võiks enne kursuse algust vaadata:
 Kasutame Discordi, kus tudengid võivad igal ajal abi küsida:
 https://discord.gg/A7BjPrj
 
+Liitu juba täna!
+
 ---
 
 Esimeseks praktikumiks võiks su arvutis olla järgnev:
