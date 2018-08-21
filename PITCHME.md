@@ -7,9 +7,9 @@ Edasiliikumiseks kasuta nooli või tühikut.
 
 Tere, progemishuviline!
 
-Meie korraldame sulle esimesel semestril programmeerimise algkursust.
+Meie korraldame Sulle esimesel semestril programmeerimise algkursust.
 
-Kui sul on vähegi huvi, anname sulle võimaluse ennast natuke ette valmistada.
+Kui Sul on vähegi huvi, anname Sulle võimaluse ennast natuke ette valmistada.
 
 ---
 
@@ -30,7 +30,7 @@ Liitu juba täna!
 
 ---
 
-Esimeseks praktikumiks võiks su arvutis olla järgnev:
+Esimeseks praktikumiks võiks Su arvutis olla järgnev:
 
 - python 3.7 - https://www.python.org/
 - PyCharm - https://www.jetbrains.com/pycharm/
